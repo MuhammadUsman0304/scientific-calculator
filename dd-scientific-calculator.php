@@ -2,9 +2,9 @@
 
 /**
  * Plugin Name: Scientific Calculator
- * Plugin URI: https://github.com
+ * Plugin URI: https://github.com/MuhammadUsman0304/scientific-calculator
  * Author: Muhammad Usman
- * Author URI:  https://author.example.com/
+ * Author URI: https://www.linkedin.com/in/muhammad-usman-b3439218b/
  * Description: add Scientific calculator into your wordpress website add this shortcode where you want to display the calculator [ddAddCalculator]
  * Version: 1.0.0
  * 
